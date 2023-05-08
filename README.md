@@ -1,6 +1,4 @@
 ![logo](https://github.com/humayunkabir154/humayunkabir154/blob/main/github_cover.gif)
-<img style="width: 100%;object-fit: cover;"
-    src="https://github.com/humayunkabir154/humayunkabir154/blob/main/github_cover.gif" alt="">
 <h1 align="center">Hi 👋, I'm Humayun Kabir</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
