@@ -1,4 +1,4 @@
-![logo](https://github.com/humayunkabir154/humayunkabir154/blob/main/github_cover3.jpg)
+![logo](https://github.com/humayunkabir154/humayunkabir154/blob/main/github_cover_my_photos.jpg)
 <h1 align="center">Hi 👋, I'm Humayun Kabir</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
